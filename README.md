@@ -1,4 +1,4 @@
-PCF 2.5 Demo
+Weighted Routing and Multi-Port Demo
 ===
 
 This is a simple application to demo weighted routing and multi-port support in PCF 2.5.
